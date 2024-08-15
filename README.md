@@ -8,7 +8,7 @@ I mainly work with SystemVerilog and Python but like to mess around with JS and 
 
 My personal site is https://dicfcs.com, I host some kool stuff on there.
 
-For CV, please head to https://cv.dicfcs.com or my LinkedIn bio 😄. I prefer to be called *Dicky*.
+For CV, please head to https://cv.dicfcs.com or my LinkedIn bio 😄. I prefer to be called **Dicky**.
 
 <!--
 **dicfcs/dicfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
