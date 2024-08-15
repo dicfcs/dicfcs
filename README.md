@@ -1,4 +1,12 @@
-## Hi there 👋
+## Man Tek Ng `@dicfcs`
+
+Hello, world! I am a third year Computer Systems Engineering student studying in the University of Warwick. I am originally from Macau 🇲🇴.
+
+🔭 I’m currently working as an intern at ARM! I've had the privilege to join their GPU Hardware Verification group for 2 years now.
+
+I mainly work with SystemVerilog and Python but like to mess around with JS and web stuff.
+
+My personal site is https://dicfcs.com, I host some kool stuff on there.
 
 <!--
 **dicfcs/dicfcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
